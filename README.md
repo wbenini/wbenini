@@ -1,11 +1,13 @@
-### Oi sou o Wellington Benini 👋
+### Oi sou o Wellington 👋
 
 <div>
  <a href="https://github.com/wbenini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wbenini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbenini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wbenini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbenini&layout=compact&langs_count=7&theme=dark"/>
  </a>
 </div>
+
+##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -15,8 +17,6 @@
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
-  
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
