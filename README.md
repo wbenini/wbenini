@@ -1,13 +1,4 @@
 ### Oi sou o Wellington 👋
-
-<div>
- <a href="https://github.com/wbenini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wbenini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbenini&layout=compact&langs_count=7&theme=dark"/>
- </a>
-</div>
-
-##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
